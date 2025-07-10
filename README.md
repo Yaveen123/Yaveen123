@@ -1,3 +1,1 @@
-# 👋 Hi, I’m Yav!
-I'm a student learning Web development and python. 
-I've also been learning UI/UX on Figma for nearly six years. 
+![GitBannerHiRes](https://github.com/user-attachments/assets/f6b064e9-919d-4bfe-820a-ce3c76edd538)
